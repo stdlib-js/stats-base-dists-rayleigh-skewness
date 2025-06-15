@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-15)
+
+<section class="features">
+
+### Features
+
+-   [`84d2f1d`](https://github.com/stdlib-js/stdlib/commit/84d2f1df9be56b3186328c39457894b84712e844) - add C implementation for `stats/base/dists/rayleigh/skewness` [(#4290)](https://github.com/stdlib-js/stdlib/pull/4290)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3809](https://github.com/stdlib-js/stdlib/issues/3809)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`84d2f1d`](https://github.com/stdlib-js/stdlib/commit/84d2f1df9be56b3186328c39457894b84712e844) - **feat:** add C implementation for `stats/base/dists/rayleigh/skewness` [(#4290)](https://github.com/stdlib-js/stdlib/pull/4290) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Dhruv Arvind Singh
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
