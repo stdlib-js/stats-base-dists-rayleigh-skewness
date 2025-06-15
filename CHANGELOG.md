@@ -16,6 +16,16 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`8070167`](https://github.com/stdlib-js/stdlib/commit/80701670fb83e7ef33abec5b14565bef540964a5) - use static qualifier for constant
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8070167`](https://github.com/stdlib-js/stdlib/commit/80701670fb83e7ef33abec5b14565bef540964a5) - **fix:** use static qualifier for constant _(by Philipp Burckhardt)_
 -   [`84d2f1d`](https://github.com/stdlib-js/stdlib/commit/84d2f1df9be56b3186328c39457894b84712e844) - **feat:** add C implementation for `stats/base/dists/rayleigh/skewness` [(#4290)](https://github.com/stdlib-js/stdlib/pull/4290) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 
 </details>
