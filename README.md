@@ -69,7 +69,7 @@ where `σ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-skewness@v0.3.0-esm/index.mjs';
 ```
 
 #### skewness( sigma )
@@ -119,7 +119,7 @@ var y = skewness( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-skewness@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
